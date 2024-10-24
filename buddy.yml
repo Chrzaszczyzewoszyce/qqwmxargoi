@@ -1,4 +1,4 @@
-- pipeline: "fajodkdayj"
-  trigger_mode: "ON_EVERY_PUSH"
-  ref_type: "TAG"
-  ref_name: "v855"
+- pipeline: "ibcpeirlxw"
+  trigger_mode: "MANUAL"
+  ref_type: "NONE"
+  trigger_condition: "ALWAYS"
