@@ -1,4 +1,4 @@
-- pipeline: "kkbdrpgdud"
+- pipeline: "ukghwtagbo"
   trigger_mode: "MANUAL"
-  ref_type: "BRANCH"
-  ref_name: "master"
+  ref_type: "WILDCARD"
+  ref_name: "*"
