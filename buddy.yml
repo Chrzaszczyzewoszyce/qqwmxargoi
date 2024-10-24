@@ -1,5 +1,5 @@
-- pipeline: "djdfjlxenj"
+- pipeline: "uxlaaegpja"
   trigger_mode: "SCHEDULED"
-  ref_type: "WILDCARD"
-  ref_name: "*"
+  ref_type: "TAG"
+  ref_name: "v923"
   cron: "5 * * * *"
