@@ -1,4 +1,4 @@
-- pipeline: "tyfnuogqpe"
-  trigger_mode: "MANUAL"
-  ref_type: "TAG"
-  ref_name: "v575"
+- pipeline: "tlwcobejok"
+  trigger_mode: "SCHEDULED"
+  ref_type: "NONE"
+  cron: "5 * * * *"
